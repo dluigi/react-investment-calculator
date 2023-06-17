@@ -1,6 +1,6 @@
 import React from "react";
 
-const ResultsTable = () => {
+const ResultsTable = (props) => {
   return (
     <table className="result">
       <thead>
